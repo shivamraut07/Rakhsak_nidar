@@ -1,0 +1,9 @@
+nidar_env/
+datasets/
+__pycache__/
+tsk2pxl/datasets/
+tsk2pxl/runs/
+yolov8n.pt
+documentation/*.mp4
+documentation/*.mkv
+.vscode/
